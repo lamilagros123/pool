@@ -1,0 +1,35 @@
+
+	h1{
+    color: black;
+    font-size: 2em;
+    font-family: 'Source Code Pro', monospace;
+    line-height: 5;
+    font-weight: 800;
+
+}
+	h2{
+    color: black;
+   font-family: 'Inconsolata', monospace;
+}
+
+    h3{
+    	color: black;
+    	font-family: 'Inconsolata', monospace;
+        font-size: 2em;
+    }
+
+    h4{color: black;
+    font-size: .5em;
+    font-family: 'Inconsolata', monospace;
+    line-height: 2;
+    font-weight: 800;
+
+    }
+
+html{
+	background-image: url(https://i.pinimg.com/564x/1d/24/96/1d2496e97cd1e9b5ce9da153f709138b.jpg);
+	background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	color: #FFFFFF
+}
